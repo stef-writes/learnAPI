@@ -1,0 +1,16 @@
+{
+  "name": "pie-api",
+  "version": "1.0.0",
+  "description": "A simple API for managing pies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+} 
